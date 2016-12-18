@@ -1,0 +1,11 @@
+#my-meta-box-id_video_post, #my-meta-box-id_audio_post, #my-meta-box-id_link_post {
+	display:none;
+}
+
+#gallery-metabox-list li {
+	float: left;
+	width: 150px;
+	text-align: center;
+	margin: 10px 10px 10px 0;
+	cursor: move;
+}

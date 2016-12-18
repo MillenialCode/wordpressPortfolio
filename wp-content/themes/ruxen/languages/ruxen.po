@@ -1,0 +1,235 @@
+# Copyright (C) 2015 the Gloria Theme
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-18 17:07+0300\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"Project-Id-Version: Ruxen\n"
+
+#: template-page-right-sidebar.php:60 template-page-left-sidebar.php:60
+#: page.php:56 page-collaspe.php:58 contact-template.php:92
+#: include/formats/content-audio.php:72 include/formats/content-gallery.php:80
+#: include/formats/content-link.php:85 include/formats/content-standart.php:61
+#: include/formats/content-video.php:72 include/formats/content.php:61
+msgid "Pages:"
+msgstr ""
+
+#: template-page-right-sidebar.php:66 template-page-left-sidebar.php:66
+#: page.php:62 page-collaspe.php:64 contact-template.php:98
+msgid "Edit Page"
+msgstr ""
+
+#: tag.php:12
+msgid "Tag: <span>%s</span>"
+msgstr ""
+
+#: tag.php:137 search.php:54 index.php:136 home-4-template.php:56
+#: home-3-template.php:51 home-2-template.php:59 home-1-template.php:52
+#: category.php:136 author.php:147 archive.php:136
+#: include/functions/theme-customize.php:1838
+msgid "More"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: search.php:12
+msgid "Search: <span>%s</span>"
+msgstr ""
+
+#: index.php:11
+msgid "Home"
+msgstr ""
+
+#: header.php:49
+msgid "Toggle navigation"
+msgstr ""
+
+#: contact-template.php:33
+msgid "CONTACT FORM"
+msgstr ""
+
+#: contact-template.php:48
+msgid "CONTACT INFORMATION"
+msgstr ""
+
+#: contact-template.php:78
+msgid "SOCIAL MEDIA"
+msgstr ""
+
+#: contact-template.php:79
+msgid "Follow us on social media"
+msgstr ""
+
+#: comments.php:20
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:20
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:58
+msgid "<i class=\"fa fa-pencil-square\"></i> Leave a Reply"
+msgstr ""
+
+#: comments.php:59
+msgid "Leave a Reply to"
+msgstr ""
+
+#: comments.php:60
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:61
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:63
+msgid "Add your comment here"
+msgstr ""
+
+#: comments.php:67
+msgid "You may use these HTML tags and attributes: %s"
+msgstr ""
+
+#: comments.php:75
+msgid "Name"
+msgstr ""
+
+#: comments.php:75 comments.php:78
+msgid "Required"
+msgstr ""
+
+#: comments.php:78
+msgid "Email"
+msgstr ""
+
+#: comments.php:81
+msgid "Website URL"
+msgstr ""
+
+#: category.php:11
+msgid "Category: <span>%s</span>"
+msgstr ""
+
+#: archive.php:11
+msgid "Archive: <span>%s</span>"
+msgstr ""
+
+#: author.php:12
+msgid "All posts by <span>%s</span>"
+msgstr ""
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:13
+msgid "That's an error"
+msgstr ""
+
+#: 404.php:14
+msgid "We can't find your request."
+msgstr ""
+
+#: 404.php:15
+msgid "Home Page"
+msgstr ""
+
+#: include/formats/content-audio.php:48 include/formats/content-gallery.php:56
+#: include/formats/content-link.php:61 include/formats/content-standart.php:38
+#: include/formats/content-video.php:48 include/formats/content.php:38
+msgid "Categories"
+msgstr ""
+
+#: include/formats/content-audio.php:63 include/formats/content-gallery.php:71
+#: include/formats/content-link.php:76 include/formats/content-standart.php:52
+#: include/formats/content-video.php:63 include/formats/content.php:52
+msgid "Tags:"
+msgstr ""
+
+#: include/formats/content-none.php:11
+msgid "None Content"
+msgstr ""
+
+#: include/formats/content-none.php:15
+msgid "Get started here."
+msgstr ""
+
+#: include/formats/content-none.php:17
+msgid "Ready to publish your first post? "
+msgstr ""
+
+#: include/formats/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: include/formats/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: include/functions/core.php:242
+msgid "Page %s"
+msgstr ""
+
+#: include/functions/core.php:282
+msgid "SEARCH"
+msgstr ""
+
+#: include/functions/core.php:300
+msgid "Top"
+msgstr ""
+
+#: include/functions/pagination.php:67
+msgid "Previous Post"
+msgstr ""
+
+#: include/functions/pagination.php:68
+msgid "Next Post"
+msgstr ""
+
+#: include/functions/theme-customize.php:1736
+msgid "Share to"
+msgstr ""
+
+#: include/functions/theme-customize.php:1852
+msgid "Previous"
+msgstr ""
+
+#: include/functions/theme-customize.php:1856
+msgid "Next"
+msgstr ""
+
+#: include/functions/theme-customize.php:2176
+msgid "Follow Us Instagram"
+msgstr ""
