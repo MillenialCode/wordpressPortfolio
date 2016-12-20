@@ -1,6 +1,6 @@
 <?php
-update_option('siteurl','http://webdevsitepro.herokuapp.com');
-update_option('home','http://webdevsitepro.herokuapp.com');
+update_option('siteurl','webdevsitepro.herokuapp.com');
+update_option('home','webdevsitepro.herokuapp.com');
 /**
  * Twenty Seventeen functions and definitions
  *
